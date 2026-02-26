@@ -1,1 +1,1 @@
-# Principios-SOLID
+Resumen principos SOLID
